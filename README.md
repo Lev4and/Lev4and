@@ -24,44 +24,70 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=SteamMarketplace" />
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-C96093.svg?logo=sass&logoColor=white">
   </p>
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp
-    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/100711360/original/48db6ea56f890402d8fa6d3ec016739902fb3b6f/develop-wpf-and-xaml-programs.jpg" title="wpf" alt="wpf" width="40" height="40"/>&nbsp
-    <img src="https://raw.githubusercontent.com/campusMVP/dotnetCoreLogoPack/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-BIG_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png" title="aspnet" alt="aspnet" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp
+    <img alt=".Net Core" src="https://img.shields.io/badge/.Net Core-623697.svg?logo=.net&logoColor=white">
+    <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
+    <img alt="MaterialDesign" src="https://img.shields.io/badge/MaterialDesign-EA3974?logo=Material Design&logoColor=white">
+    <img alt="DevExpress MVVM" src="https://img.shields.io/badge/DevExpress MVVM-F78119?logo=DevExpress&logoColor=white">
+    <img alt="LiveCharts" src="https://img.shields.io/badge/LiveCharts-0086C3?logo=.net&logoColor=white">
+    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET Core-2067B6?logo=.net&logoColor=white">
+    <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-027378?logo=Microsoft SharePoint&logoColor=white">
+    <img alt="MediatoR" src="https://img.shields.io/badge/MediatoR-292929?logo=.net&logoColor=white">
+    <img alt="FluentValidation" src="https://img.shields.io/badge/FluentValidation-8CA1AF?logo=.net&logoColor=white">
+    <img alt="SignalR" src="https://img.shields.io/badge/SignalR-2067B6?logo=.net&logoColor=white">
+    <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-3F1F89?logo=.net&logoColor=white">
+    <img alt="EntityFrameworkCore" src="https://img.shields.io/badge/EntityFrameworkCore-2067B6?logo=.net&logoColor=white">
+    <img alt="Z.EntityFramework.Extensions" src="https://img.shields.io/badge/Z.EntityFramework.Extensions-8B090A?logo=.net&logoColor=white">
+    <img alt="MongoDB Driver" src="https://img.shields.io/badge/MongoDB Driver-00E762?logo=MongoDB&logoColor=white">
+    <img alt="xUnit" src="https://img.shields.io/badge/xUnit-000000?logo=.net&logoColor=white">
+    <img alt="Serilog" src="https://img.shields.io/badge/Serilog-FF2518?logo=.net&logoColor=white">
+    <img alt="Seq" src="https://img.shields.io/badge/Seq-E84100?logo=.net&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B782?logo=vue.js&logoColor=white">
+    <img alt="Vuex" src="https://img.shields.io/badge/Vuex-41B782?logo=vue.js&logoColor=white">
+    <img alt="Vue Router" src="https://img.shields.io/badge/Vue Router-41B782?logo=vue.js&logoColor=white">
+    <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-21A8E6?logo=Ant Design&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-32BCEF?logo=Tailwind CSS&logoColor=white">
+    <img alt="Axios" src="https://img.shields.io/badge/Axios-B8A3F3?logo=Axios&logoColor=white">
+    <img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-64DC9A?logo=javascript&logoColor=white">
+    <img alt="PnPjs" src="https://img.shields.io/badge/PnPjs-0078D4?logo=javascript&logoColor=white">
   </p>
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-242630?logo=GitHub&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-0685AE?logo=Docker&logoColor=white">
+    <img alt="NGINX" src="https://img.shields.io/badge/NGINX-E9748?logo=NGINX&logoColor=white">
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F57F28?logo=Grafana&logoColor=white">
+    <img alt="Portainer" src="https://img.shields.io/badge/Portainer-0BA5EC?logo=Portainer&logoColor=white">
+    <img alt="MS SQL" src="https://img.shields.io/badge/MS SQL-A43035?logo=Microsoft SQL Server&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32668F?logo=PostgreSQL&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00E762?logo=MongoDB&logoColor=white">
+    <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-027378?logo=Microsoft SharePoint&logoColor=white">
   </p>
   <h3>💻 Software and Tools</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-DB4812?logo=Ubuntu&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-0685AE?logo=Docker&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?logo=Git&logoColor=white">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-CE98FA?logo=Visual Studio&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-23A9F2?logo=Visual Studio Code&logoColor=white">
+    <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-E63F32?logo=Google Chrome&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?logo=Figma&logoColor=white">
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>💻 GitHub Profile Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lev4and's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Lev4and&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
