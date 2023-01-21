@@ -34,6 +34,7 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-C96093.svg?logo=sass&logoColor=white">
+    <img alt="Shell" src="https://img.shields.io/badge/Shell-89E051.svg?logo=PowerShell&logoColor=white">
   </p>
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
@@ -84,6 +85,8 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-23A9F2?logo=Visual Studio Code&logoColor=white">
     <img alt="Google Chrome" src="https://img.shields.io/badge/Google Chrome-E63F32?logo=Google Chrome&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?logo=Figma&logoColor=white">
+    <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-32668F?logo=PostgreSQL&logoColor=white">
+    <img alt="MongoDBCompass" src="https://img.shields.io/badge/MongoDBCompass-00E762?logo=MongoDB&logoColor=white">
   </p>
 </details>
 
