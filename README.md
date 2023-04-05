@@ -18,7 +18,7 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=ByBit" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=TradingBot" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=HeadHunter" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=Production" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=SteamMarketplace" />
