@@ -18,7 +18,7 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=TradingBot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=NewsAggregator" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=HeadHunter" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=Production" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lev4and&repo=SteamMarketplace" />
@@ -34,23 +34,19 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-C96093.svg?logo=sass&logoColor=white">
-    <img alt="Shell" src="https://img.shields.io/badge/Shell-89E051.svg?logo=PowerShell&logoColor=white">
   </p>
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
     <img alt=".Net Core" src="https://img.shields.io/badge/.Net Core-623697.svg?logo=.net&logoColor=white">
     <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white">
     <img alt="MaterialDesign" src="https://img.shields.io/badge/MaterialDesign-EA3974?logo=Material Design&logoColor=white">
-    <img alt="DevExpress MVVM" src="https://img.shields.io/badge/DevExpress MVVM-F78119?logo=DevExpress&logoColor=white">
-    <img alt="LiveCharts" src="https://img.shields.io/badge/LiveCharts-0086C3?logo=.net&logoColor=white">
     <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET Core-2067B6?logo=.net&logoColor=white">
     <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-027378?logo=Microsoft SharePoint&logoColor=white">
-    <img alt="MediatoR" src="https://img.shields.io/badge/MediatoR-292929?logo=.net&logoColor=white">
+    <img alt="MediatR" src="https://img.shields.io/badge/MediatoR-292929?logo=.net&logoColor=white">
     <img alt="FluentValidation" src="https://img.shields.io/badge/FluentValidation-8CA1AF?logo=.net&logoColor=white">
     <img alt="SignalR" src="https://img.shields.io/badge/SignalR-2067B6?logo=.net&logoColor=white">
     <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-3F1F89?logo=.net&logoColor=white">
     <img alt="EntityFrameworkCore" src="https://img.shields.io/badge/EntityFrameworkCore-2067B6?logo=.net&logoColor=white">
-    <img alt="Z.EntityFramework.Extensions" src="https://img.shields.io/badge/Z.EntityFramework.Extensions-8B090A?logo=.net&logoColor=white">
     <img alt="MongoDB Driver" src="https://img.shields.io/badge/MongoDB Driver-00E762?logo=MongoDB&logoColor=white">
     <img alt="xUnit" src="https://img.shields.io/badge/xUnit-000000?logo=.net&logoColor=white">
     <img alt="Serilog" src="https://img.shields.io/badge/Serilog-FF2518?logo=.net&logoColor=white">
@@ -61,7 +57,6 @@
     <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-21A8E6?logo=Ant Design&logoColor=white">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-32BCEF?logo=Tailwind CSS&logoColor=white">
     <img alt="Axios" src="https://img.shields.io/badge/Axios-B8A3F3?logo=Axios&logoColor=white">
-    <img alt="ApexCharts" src="https://img.shields.io/badge/ApexCharts-64DC9A?logo=javascript&logoColor=white">
     <img alt="PnPjs" src="https://img.shields.io/badge/PnPjs-0078D4?logo=javascript&logoColor=white">
   </p>
   <h3>🗄️ Databases and Cloud Hosting</h3>
