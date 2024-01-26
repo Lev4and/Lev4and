@@ -54,6 +54,7 @@
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B782?logo=vue.js&logoColor=white">
     <img alt="Vuex" src="https://img.shields.io/badge/Vuex-41B782?logo=vue.js&logoColor=white">
     <img alt="Vue Router" src="https://img.shields.io/badge/Vue Router-41B782?logo=vue.js&logoColor=white">
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=white">
     <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-21A8E6?logo=Ant Design&logoColor=white">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-32BCEF?logo=Tailwind CSS&logoColor=white">
     <img alt="Axios" src="https://img.shields.io/badge/Axios-B8A3F3?logo=Axios&logoColor=white">
@@ -70,6 +71,15 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32668F?logo=PostgreSQL&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00E762?logo=MongoDB&logoColor=white">
     <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-027378?logo=Microsoft SharePoint&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
+    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=Azure DevOps&logoColor=white">
+    <img alt="Azure Functions" src="https://img.shields.io/badge/Azure Functions-0062AD?logo=Azure Functions&logoColor=white">
+    <img alt="CosmosDB" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white">
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=Kibana&logoColor=white">
   </p>
   <h3>💻 Software and Tools</h3>
   <p>
@@ -82,6 +92,9 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?logo=Figma&logoColor=white">
     <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-32668F?logo=PostgreSQL&logoColor=white">
     <img alt="MongoDBCompass" src="https://img.shields.io/badge/MongoDBCompass-00E762?logo=MongoDB&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft Teams-6264A7?logo=microsoftteams&logoColor=white">
+    <img alt="VK Teams" src="https://img.shields.io/badge/VK Teams-0077FF?logo=vk&logoColor=white">
   </p>
 </details>
 
